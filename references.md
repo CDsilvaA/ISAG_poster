@@ -7,3 +7,9 @@ Misztal I, Tsuruda S, Lourenço D, Aguilar L, Legarra A, Vitezica Z (2018) Manua
 Mulder HA, Rashidi H (2017) Selection on resilience improves disease resistance and tolerance to infection. Journal of Animal Science 95:3346-3358.
 
 Rashidi H (2016) Breeding against infectious diseases in animals. 2016. 182 f. PhD Thesis - Wageningen University, Netherlands.
+
+Rönnegård L, Shen X. Alam M (2010) hglm: A Package for Fitting Hierarchical Generalized Linear Models. The R Journal 2:20-28.
+
+Wharton RH, Utech KBW (1970) The relation between engorgement and dropping of Boophilus microplus (canestrini) (ixodidae) to the assessment of tick numbers on cattle. Journal of the Australian Entomological Society 9:171-182.
+
+Photo: pictavio (https://pixabay.com/pt/photos/carrapato-bock-de-madeira-comum-5276051/)
